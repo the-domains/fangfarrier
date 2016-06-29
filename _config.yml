@@ -1,0 +1,14 @@
+layout_spectrum: 0.9154937
+color:
+  saturation: 0.5788531
+  lightness: 1
+  brandStrength: 0.3638126
+  brandColors:
+    - '#FFFFFF'
+    - '#0080C1'
+    - '#40BCC9'
+    - '#B0B0B0'
+    - '#BADDEF'
+  rhythmicContrast: 0.8315412
+typography_spectrum: 0.4050179
+name: 'Fangfarrier '
